@@ -1,2 +1,1 @@
-# spatial_regression_project
-Project using basic workflow and functionalities of spatial-regression-related R packages
+Simple spatial regression project that explores functionalities of R packages like sp, spdep, geosphere, spatialreg or coda. The results unfortunately were not particularly interesting.
